@@ -17,13 +17,13 @@
 1. Bu projeyi klonlayın:
 
     ```sh
-    git clone https://github.com/kullaniciadi/proje-adi.git
+    git clone https://github.com/Ryucel/WhiskyCollection.git
     ```
 
 2. Proje dizinine gidin:
 
     ```sh
-    cd proje-adi
+    cd WhiskyCollection
     ```
 
 3. [index.html](http://_vscodecontentref_/4) dosyasını tarayıcınızda açın.
